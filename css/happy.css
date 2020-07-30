@@ -27,3 +27,18 @@
     text-align: center;
     color: white;
 }
+
+.quote {
+    padding: 40px;
+    width: auto;
+    text-align: center;
+}
+.quote h2 {
+    margin: auto;
+    color: white;
+}
+.quote p {
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
