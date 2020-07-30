@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 20;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("../img/yoan-agostini-by-yoan-agostini-flat-design-background-minima.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    padding: 40px;
+    width: auto;
+    text-align: center;
+}
+.container img {
+}
+.container h1 {
+    /* padding: 30px; */
+    margin: 40px;
+    color: white;
+}
+.container h2 {
+    text-align: center;
+    margin: auto;
+}
+.container p {
+    margin: 10px;
+    color: white;
+}
+.music {
+    text-align: center;
+}
