@@ -2,7 +2,7 @@
     padding: 0;
     margin: 20;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: dodgerblue;
+    background-image: url("../img/yoan-agostini-by-yoan-agostini-flat-design-background-minima.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,11 +16,14 @@
 .container h1 {
     /* padding: 30px; */
     padding: 50px 0 10px 0;
-    margin: auto;
+    margin: 40px;
     color: white;
+}
+.container h2 {
+    margin: auto;
 }
 .container p {
-    margin: auto;
+    margin: 20px;
+    text-align: center;
     color: white;
 }
-
