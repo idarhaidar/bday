@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 20;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: goldenrod;
+}
+
+.container {
+    padding: 20px;
+    width: auto;
+    text-align: center;
+}
+.container h1 {
+    padding: 50px 0 10px 0;
+    margin: auto;
+    color: white;
+}
+.container h2 {
+    margin: 200px 20px;
+    color: white;
+}
+.container h3 {
+    color: white;
+}
+.container p {
+    padding: 10px 0px;
+    margin: auto;
+    color: white;
+}
+.container a {
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    background-color: goldenrod;
+}
+.container li a {
+    text-decoration: none;
+}
+.container ul li {
+    display: inline-block;
+}
+.container li a:hover {
+    background-color: gold;
+}
